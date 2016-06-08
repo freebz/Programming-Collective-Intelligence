@@ -1,0 +1,3 @@
+[console_scripts]
+dlcs = pydelicious.tools.dlcs:_main
+

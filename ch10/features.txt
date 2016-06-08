@@ -1,0 +1,1 @@
+['rule', 'monday', 'star', 'year', 'made', 'count']
